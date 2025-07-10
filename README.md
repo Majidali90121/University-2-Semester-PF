@@ -13,7 +13,7 @@ The user enters their **name** and **roll number**, and the program displays bot
 
 📸 Output Image:  
 <p align="center">
-  <img src="./images/Photo1.png" alt="Task 01 Output" width="600px"/>
+  <img src="./Lab 01/Images/Photo1.png" alt="Task 01 Output" width="600px"/>
 </p>
 
 ---
@@ -26,7 +26,7 @@ The program calculates and displays:
 
 📸 Output Image:  
 <p align="center">
-  <img src="./Images/Lab01 photo2" alt="Task 02 Output" width="600px"/>
+  <img src="./Lab 01/Images/Lab01 photo2" alt="Task 02 Output" width="600px"/>
 </p>
 
 ---
@@ -37,12 +37,12 @@ If the entered age is **greater than or equal to 18**, the person is eligible.
 
 📸 If Eligible:  
 <p align="center">
-  <img src="./Images/Lab01 photo3" alt="Eligible Voter" width="600px"/>
+  <img src="./Lab 01/Images/Lab01 photo3" alt="Eligible Voter" width="600px"/>
 </p>
 
 📸 If Not Eligible:  
 <p align="center">
-  <img src="./Images/Lab01 noegligeble" alt="Not Eligible" width="600px"/>
+  <img src="./Lab 01/Images/Lab01 noegligeble" alt="Not Eligible" width="600px"/>
 </p>
 
 ---
@@ -53,7 +53,7 @@ This program takes a temperature in **Celsius** and converts it to **Fahrenheit*
 
 📸 Output Image:  
 <p align="center">
-  <img src="./Images/Lab01 photo4" alt="Temperature Conversion" width="600px"/>
+  <img src="./Lab 01/Images/Lab01 photo4" alt="Temperature Conversion" width="600px"/>
 </p>
 
 ---
@@ -64,25 +64,25 @@ The program performs basic operations:
 - ➕ **Addition**
 
   <p align="center">
-    <img src="./Images/Lab01 photo5" alt="Addition" width="600px"/>
+    <img src="./Lab 01/Images/Lab01 photo5" alt="Addition" width="600px"/>
   </p>
 
 - ➖ **Subtraction**
 
   <p align="center">
-    <img src="./Images/Lab01 photo05 subtract" alt="Subtraction" width="600px"/>
+    <img src="./Lab 01/Images/Lab01 photo05 subtract" alt="Subtraction" width="600px"/>
   </p>
 
 - ➗ **Division**
 
   <p align="center">
-    <img src="./Images/Lab01 devide" alt="Division" width="600px"/>
+    <img src="./Lab 01/Images/Lab01 devide" alt="Division" width="600px"/>
   </p>
 
 - ✖️ **Multiplication**
 
   <p align="center">
-    <img src="./Images/Lab01 multiply" alt="Multiplication" width="600px"/>
+    <img src="./Lab 01/Images/Lab01 multiply" alt="Multiplication" width="600px"/>
   </p>
 
 ---
@@ -98,12 +98,12 @@ The program calculates the **total cost** and includes **validation**:
 
 📸 Correct Input:  
 <p align="center">
-  <img src="./Images/lab06 Correction" alt="Correct Input" width="600px"/>
+  <img src="./Lab 01/Images/lab06 Correction" alt="Correct Input" width="600px"/>
 </p>
 
 📸 Validation Error:  
 <p align="center">
-  <img src="./Images/Lab01 photo6 Validation" alt="Validation Error" width="600px"/>
+  <img src="./Lab 01/Images/Lab01 photo6 Validation" alt="Validation Error" width="600px"/>
 </p>
 
 ---
