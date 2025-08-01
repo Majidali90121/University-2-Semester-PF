@@ -115,9 +115,6 @@ The program calculates the **total cost** and includes **validation**:
 
 ---
 
-## 👨‍💻 Author
-
-**Majid Ali**
 
 ---
 
@@ -130,3 +127,91 @@ This lab project is designed for **beginners** in C++ and covers the basics of:
 - Functions
 
 ---
+## Task 1:  Default Constructor — Employee 
+  ##       Management System
+  Create a class named Employee for a basic employee management system.<br/> 
+The class should have the following private data members:<br/>
+❑ id (int)<br/>
+❑ name (string)<br/>
+❑ salary (float)<br/>
+Implement a default constructor that initializes:<br/>
+❑ id = 0<br/>
+❑ name = "Not Assigned“<br/>
+❑ salary = 0.0<br/>
+Also include:<br/>
+❑ A displayDetails() method that shows employee details.<br/>
+❑ A main() function that creates an object using the default constructor and displays 
+its information.<br/>
+
+## 📸 OUT PUT
+<p align="center">
+  <img src="./Lab 02/Images/4.png" alt="Validation Error" width="600px"/>
+</p>
+
+---
+
+## Task 2: Parameterized Constructor — Bank 
+##          Account Initialization
+Create a class named BankAccount that manages account information.<br/>
+It should have the following private data members:<br/>
+❑ accountNumber (string)<br/>
+❑ accountHolder (string)<br/>
+❑ balance (double)<br/>
+Implement a parameterized constructor to initialize all three values 
+when a new account is created:<br/>
+❑ id = 0<br/>
+❑ name = "Not Assigned“<br/>
+❑ salary = 0.0<br/>
+Also include:<br/>
+❑ A method showAccountDetails() to display the account information..<br/>
+❑ In main(), create an object of BankAccount using user-defined values and display 
+the account details.<br/>
+## 📸 OUT PUT
+<p align="center">
+  <img src="./Lab 02/Images/2.png" alt="Validation Error" width="600px"/>
+</p>
+
+---
+## Constructor Overloading
+Create a class named Rectangle with the following private data members:<br/>
+❑ length (float) <br/>
+❑ width (float) <br/>
+Overload the constructor as follows:<br/>
+❑ A default constructor that initializes both length and width to 1.0.<br/>
+❑ A parameterized constructor that takes two float values to initialize length and 
+width.<br/>
+❑ A single-parameter constructor that sets both length and width to the same value 
+(creating a square).<br/>
+Also include:<br/>
+❑ A method area() to return the area of the rectangle and a display() method.<br/> 
+❑ In main(), create three objects using all constructor versions and display their 
+dimensions and area.<br/>
+
+## 📸 OUT PUT
+<p align="center">
+  <img src="./Lab 02/Images/3.png" alt="Validation Error" width="600px"/>
+</p>
+
+---
+
+## Task 4: Destructor
+Create a class called Locker that represents a bank locker.<br/>
+◼ The constructor should print:<br/>
+"Locker allocated to customer.“<br/>
+◼ The destructor should print:<br/>
+"Locker returned by customer.“<br/>
+Inside your main() function:<br/>
+❑ Create one locker object inside a block { } to observe automatic 
+destructor call.<br/>
+❑ Create another locker using new and release it using delete.<br/>
+
+## 📸 OUT PUT
+<p align="center">
+  <img src="./Lab 02/Images/1.png" alt="Validation Error" width="600px"/>
+</p>
+
+---
+
+## 👨‍💻 Author
+
+**Majid Ali**
