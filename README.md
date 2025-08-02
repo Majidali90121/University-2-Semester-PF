@@ -212,6 +212,83 @@ destructor call.<br/>
 
 ---
 
+## Task 1: Copy Constructor –Shallow Copy
+Create a BankAccount class using a pointer to store the 
+balance.<br/>
+◼ Dynamically allocate memory in the constructor.<br/>
+◼ Use the default copy constructor by copying an object.<br/>
+◼ Modify the copied object.<br/>
+◼ Display both balances to show the side effects of shared memory.<br/>
+◼ Observe how the destructor is called twice on the same memory<br/>
+location, causing a runtime error or undefined behavior (if not
+handled safely).<br/>
+
+## 📸 OUT PUT
+<p align="center">
+  <img src="./Lab 03/Images/1.png" alt="Validation Error" width="600px"/>
+</p>
+
+---
+
+## Task 2: Copy Constructor –Deep Copy
+Update the BankAccount class (created in task 1) to 
+include a deep copy constructor.<br/>
+◼ Ensure each object gets its own separate copy of the balance.<br/>
+◼ After copying and modifying one object, show that the original<br/>
+remains unchanged.<br/>
+◼ Use a destructor to safely free memory without double deletion.<br/>
+
+## 📸 OUT PUT
+<p align="center">
+  <img src="./Lab 03/Images/2.png" alt="Validation Error" width="600px"/>
+</p>
+
+---
+
+## Task 3: Single Inheritance
+
+Create a base class Person with the following properties:<br/>
+◼ string name, int age.<br/>
+Then, create a derived class Student that inherits from Person and adds the
+following property:<br/>
+◼ int rollNo.<br/>
+## Implement the following functionality:
+◼ A method setPerson(string, int) in the Person class to initialize name and
+age.<br/>
+◼ A method setStudent(string, int, int) in the Student class to set the values
+of name, age, and rollNo.<br/>
+◼ Important: While setting values in setStudent, you must call the setPerson
+method from the Person class to set the name and age properties.<br/>
+◼ A method showPerson() in the Person class to display the name and age.<br/>
+◼ A method showStudent() in the Student class to display the name, age,
+and rollNo.<br/>
+
+
+## 📸 OUT PUT
+<p align="center">
+  <img src="./Lab 03/Images/3.png" alt="Validation Error" width="600px"/>
+</p>
+
+---
+
+## Task 4: Constructor in Inheritance
+Create a base class Shape with a constructor that prints "Shape 
+constructor called" when it is invoked.<br/>
+Then, create a derived class Rectangle that inherits from Shape and 
+has its own constructor. The constructor of Rectangle should print 
+"Rectangle constructor called" when invoked.<br/>
+## Demonstrate the following:
+◼ When an object of Rectangle is created, observe the order in which 
+the constructors are called.<br/>
+◼ Implement constructor calls in main() to see that the base class 
+constructor is called before the derived class constructor.<br/>
+
+
+## 📸 OUT PUT
+<p align="center">
+  <img src="./Lab 03/Images/4.png" alt="Validation Error" width="600px"/>
+</p>
+---
 ## 👨‍💻 Author
 
 **Majid Ali**
