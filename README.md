@@ -127,6 +127,8 @@ This lab project is designed for **beginners** in C++ and covers the basics of:
 - Functions
 
 ---
+
+##                                  Lab 02
 ## Task 1:  Default Constructor — Employee 
   ##       Management System
   Create a class named Employee for a basic employee management system.<br/> 
@@ -211,6 +213,7 @@ destructor call.<br/>
 </p>
 
 ---
+##                                                      Lab 03
 
 ## Task 1: Copy Constructor –Shallow Copy
 Create a BankAccount class using a pointer to store the 
@@ -288,6 +291,7 @@ constructor is called before the derived class constructor.<br/>
 <p align="center">
   <img src="./Lab 03/Images/4.png" alt="Validation Error" width="600px"/>
 </p>
+
 ---
 ## 👨‍💻 Author
 
