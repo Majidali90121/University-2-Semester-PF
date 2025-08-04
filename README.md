@@ -1,3 +1,4 @@
+## ============================================= lab 01 ==========================================
 # 💻 C++ Console Application - Lab Project
 
 This project includes **6 different C++ programs** that cover basic concepts like user input, conditional statements, arithmetic operations, and functions. Each task is represented with an image from the output for better understanding.
@@ -128,7 +129,7 @@ This lab project is designed for **beginners** in C++ and covers the basics of:
 
 ---
 
-##                                  Lab 02
+## =================================================== Lab 02 ============================================
 ## Task 1:  Default Constructor — Employee 
   ##       Management System
   Create a class named Employee for a basic employee management system.<br/> 
@@ -213,7 +214,7 @@ destructor call.<br/>
 </p>
 
 ---
-##                                                      Lab 03
+## ========================================================== Lab 03 =================================================
 
 ## Task 1: Copy Constructor –Shallow Copy
 Create a BankAccount class using a pointer to store the 
@@ -293,6 +294,99 @@ constructor is called before the derived class constructor.<br/>
 </p>
 
 ---
+
+## ========================================================== Lab 04 ==================================================
+
+## Task: 01 – Single Inheritance
+You are building a student information system. Create a 
+Person class and a Student class that inherits from it.<br/>
+◼ Classes & Requirements:<br/>
+❑ Person:<br/>
+Attributes: name, age<br/>
+ Functions: display_person_info()<br/>
+❑ Student (inherits Person):<br/>
+Additional Attribute: student_id<br/>
+Additional Function: display_student_info()<br/>
+◼ Tasks for Students:<br/>
+❑ Define both classes using single inheritance.<br/>
+❑ Accept input from the user for all fields.<br/>
+❑ Display complete student information using both functions.<br/>
+
+## 📸 OUT PUT
+<p align="center">
+  <img src="./Lab 04/Images/1.png" alt="Validation Error" width="600px"/>
+</p>
+
+---
+
+## Task: 02 – Multilevel Inheritance
+You are designing a payroll system.<br/>
+◼ Classes & Requirements:<br/>
+❑ Person:<br/>
+Attributes: name, age<br/>
+ Function: display_person()<br/> 
+❑ Employee (inherits Person):<br/>
+Additional Attribute: employee_id<br/>
+Additional Function: display_employee()<br/>
+❑ Manager (inherits Employee):<br/>
+Additional Attribute: department<br/>
+Function: display_manager()<br/>
+◼ Tasks for Students:<br/>
+❑ Implement multilevel inheritance.<br/>
+❑ Accept input and display complete info using all display 
+functions.<br/>
+
+<p align="center">
+  <img src="./Lab 04/Images/2.png" alt="Validation Error" width="600px"/>
+</p>
+
+---
+
+## Task: 03 – Hierarchical Inheritance
+
+In an organization, Employee is a base class. Developer and 
+Designer inherit from it.<br/>
+◼ Classes & Requirements:<br/>
+❑ Employee:<br/>
+Attributes: name, salary<br/>
+ Function: display_employee()<br/> 
+❑ Developer (inherits Employee):<br/>
+Additional Attribute: programming_language<br/>
+Additional Function: display_developer()<br/>
+❑ Designer (inherits Employee):<br/>
+Additional Attribute: design_tool<br/>
+Function: display_designer()<br/>
+◼ Tasks for Students:<br/>
+❑ Implement hierarchical inheritance.<br/>
+❑ Create objects of both derived classes and display all information.<br/>
+
+<p align="center">
+  <img src="./Lab 04/Images/3.png" alt="Validation Error" width="600px"/>
+</p>
+
+---
+
+## Task: 04 – Multiple Inheritance
+
+Build a device that behaves as both a Printer and a Scanner.<br/>
+◼ Classes & Requirements:<br/>
+❑ Printer:<br/>
+ Function: print_document ()<br/> 
+❑ Scanner<br/>
+Function: scan_document()<br/>
+❑ Photocopier (inherits from Printer and Scanner):<br/>
+Function: photocopy() (calls both above functions)<br/>
+Tasks for Students:<br/>
+❑ Implement multiple inheritance.<br/>
+❑ Create an object of Photocopier and call all functions.<br/>
+
+<p align="center">
+  <img src="./Lab 04/Images/4.png" alt="Validation Error" width="600px"/>
+</p>
+
+---
+
+
 ## 👨‍💻 Author
 
 **Majid Ali**
