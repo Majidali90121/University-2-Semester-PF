@@ -428,7 +428,7 @@ This program shows **Function Overloading**, where multiple functions share the 
 
 📸 Output Image:  
 <p align="center">
-  <img src="./Lab 06&7/1.png" width="600px"/>
+  <img src="./Lab 06&07/1.png" width="600px"/>
 </p>
 
 ---
@@ -440,7 +440,7 @@ This program demonstrates **Function Overriding** using **Inheritance**.
 
 📸 Output Image:  
 <p align="center">
-  <img src="./Lab 06&7/2.png" width="600px"/>
+  <img src="./Lab 06&07/2.png" width="600px"/>
 </p>
 
 ---
@@ -452,7 +452,7 @@ This task uses **Function Overriding** to calculate shapes:
 
 📸 Output Image:  
 <p align="center">
-  <img src="./Lab 06&7/3.png" width="600px"/>
+  <img src="./Lab 06&07/3.png" width="600px"/>
 </p>
 
 ---
@@ -464,7 +464,7 @@ This task implements **Operator Overloading**:
 
 📸 Output Image:  
 <p align="center">
-  <img src="./Lab 06&7/4.png" width="600px"/>
+  <img src="./Lab 06&07/4.png" width="600px"/>
 </p>
 
 ---
@@ -531,7 +531,11 @@ Demonstrates file operations like:
 
 📸 Output Image:  
 <p align="center">
-  <img src="./Lab 10/1.png" width="600px"/>
+  <img src="./Lab10/1.png" width="600px"/>
+</p>
+📸 File Image:
+<p align="center">
+  <img src="./Lab10/1a.png" width="600px"/>
 </p>
 
 ---
@@ -541,7 +545,7 @@ This program counts the **number of lines** in a text file.
 
 📸 Output Image:  
 <p align="center">
-  <img src="./Lab 10/2.png" width="600px"/>
+  <img src="./Lab10/2.png" width="600px"/>
 </p>
 
 ---
@@ -554,6 +558,11 @@ Appends student details into a text file for **record-keeping**.
   <img src="./Lab 10/3.png" width="600px"/>
 </p>
 
+📸 File Image
+<p align="center">
+  <img src="./Lab10/3a.png" width="600px"/>
+</p>
+
 ---
 
 ### ✅ **Task 04: Copy File Content**
@@ -561,8 +570,10 @@ Copies the content from one file to another.
 
 📸 Output Image:  
 <p align="center">
-  <img src="./Lab 10/4.png" width="600px"/>
+  <img src="./Lab10/4.png" width="600px"/>
 </p>
+
+
 
 ---
 
