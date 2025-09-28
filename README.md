@@ -385,7 +385,276 @@ Tasks for Students:<br/>
 </p>
 
 ---
+======================================================== Lab 05 ===================================
 
+# 🧩 Object-Oriented Concepts — Aggregation & Composition
+
+---
+
+### ✅ **Task 01: Aggregation**
+This task demonstrates **Aggregation**, which represents a **“has-a” relationship** between classes.  
+- A class contains the reference of another class but both can exist **independently**.  
+- Example: A *Department* may have *Students*, but deleting a department does not delete the student.  
+
+📸 Output Image:  
+<p align="center">
+  <img src="./Lab 05/1.png" width="600px"/>
+</p>
+
+---
+
+### ✅ **Task 02: Composition**
+This task demonstrates **Composition**, which also represents a **“has-a” relationship**, but it is **stronger** than aggregation.  
+- If the container class is destroyed, the contained objects are also destroyed.  
+- Example: A *House* contains *Rooms*. If the house is destroyed, the rooms no longer exist.  
+
+📸 Output Image:  
+<p align="center">
+  <img src="./Lab 05/2.png" width="600px"/>
+</p>
+
+---
+
+=========================================================== Lab 06 & 07 ====================================
+
+# 🔄 Function Overloading, Overriding & Operator Overloading
+
+---
+
+### ✅ **Task 01: Function Overloading**
+This program shows **Function Overloading**, where multiple functions share the same name but differ in:  
+- Number of parameters  
+- Types of parameters  
+
+📸 Output Image:  
+<p align="center">
+  <img src="./Lab 06&7/1.png" width="600px"/>
+</p>
+
+---
+
+### ✅ **Task 02: Function Overriding**
+This program demonstrates **Function Overriding** using **Inheritance**.  
+- A derived class provides a new definition for a base class function.  
+- Useful for **runtime polymorphism**.  
+
+📸 Output Image:  
+<p align="center">
+  <img src="./Lab 06&7/2.png" width="600px"/>
+</p>
+
+---
+
+### ✅ **Task 03: Shape Finder (Override & Declaration)**
+This task uses **Function Overriding** to calculate shapes:  
+- Rectangle  
+- Circle  
+
+📸 Output Image:  
+<p align="center">
+  <img src="./Lab 06&7/3.png" width="600px"/>
+</p>
+
+---
+
+### ✅ **Task 04: Operator Overloading for Complex Numbers**
+This task implements **Operator Overloading**:  
+- Overloads operators to perform addition, subtraction, etc. on **complex numbers**.  
+- Shows how user-defined types can behave like built-in types.  
+
+📸 Output Image:  
+<p align="center">
+  <img src="./Lab 06&7/4.png" width="600px"/>
+</p>
+
+---
+
+============================== Lab 08 =============================================
+
+# ⚙️ Advanced Concepts — Virtual & Friend Functions
+
+---
+
+### ✅ **Task 01: Pure Virtual Function**
+This program demonstrates **Abstract Classes** using a **Pure Virtual Function**.  
+- Ensures derived classes implement their own version.  
+- Provides **runtime polymorphism**.  
+
+📸 Output Image:  
+<p align="center">
+  <img src="./Lab 08/1.png" width="600px"/>
+</p>
+
+---
+
+### ✅ **Task 02: Friend Function**
+This task shows how a **Friend Function** can access private data of a class.  
+- Breaks encapsulation intentionally for flexibility.  
+- Useful for operator overloading and utility functions.  
+
+📸 Output Image:  
+<p align="center">
+  <img src="./Lab 08/2.png" width="600px"/>
+</p>
+
+---
+
+===================================== Lab 09 =================================================
+
+# 📌 Static Members in C++
+
+---
+
+### ✅ **Task 01: Static Member Function**
+This program demonstrates **Static Members**:  
+- A **static variable** is shared among all objects of a class.  
+- A **static function** can be called without creating an object.  
+
+📸 Output Image:  
+<p align="center">
+  <img src="./Lab 09/1.png" width="600px"/>
+</p>
+
+---
+
+===================================== Lab 10 ===============================================
+
+# 📂 File Handling in C++
+
+---
+
+### ✅ **Task 01: Read, Write, Delete Files**
+Demonstrates file operations like:  
+- Writing data  
+- Reading data  
+- Deleting file contents  
+
+📸 Output Image:  
+<p align="center">
+  <img src="./Lab 10/1.png" width="600px"/>
+</p>
+
+---
+
+### ✅ **Task 02: Count Number of Lines**
+This program counts the **number of lines** in a text file.  
+
+📸 Output Image:  
+<p align="center">
+  <img src="./Lab 10/2.png" width="600px"/>
+</p>
+
+---
+
+### ✅ **Task 03: Add Student Details**
+Appends student details into a text file for **record-keeping**.  
+
+📸 Output Image:  
+<p align="center">
+  <img src="./Lab 10/3.png" width="600px"/>
+</p>
+
+---
+
+### ✅ **Task 04: Copy File Content**
+Copies the content from one file to another.  
+
+📸 Output Image:  
+<p align="center">
+  <img src="./Lab 10/4.png" width="600px"/>
+</p>
+
+---
+
+============================================================= Lab 11 ======================================
+
+# 📝 File Pointers in C++
+
+---
+
+### ✅ **Task 01: tellp()**
+Shows how to get the current **put pointer** position in a file.  
+
+📸 Output Image:  
+<p align="center">
+  <img src="./Lab 11/1.png" width="600px"/>
+</p>
+
+---
+
+### ✅ **Task 02: tellg()**
+Shows how to get the current **get pointer** position in a file.  
+
+📸 Output Image:  
+<p align="center">
+  <img src="./Lab 11/2.png" width="600px"/>
+</p>
+
+---
+
+### ✅ **Task 03: seekp()**
+Moves the **put pointer** to a specified location in a file.  
+
+📸 Output Image:  
+<p align="center">
+  <img src="./Lab 11/2.png" width="600px"/>
+</p>
+
+---
+
+### ✅ **Task 04: seekg()**
+Moves the **get pointer** to a specified location in a file.  
+
+📸 Output Image:  
+<p align="center">
+  <img src="./Lab 11/2.png" width="600px"/>
+</p> 
+
+---
+
+========================================================= Lab 12 ==============================================
+
+# ⚡ Exception Handling in C++
+
+---
+
+### ✅ **Task 01: Exception Handling in Calculator**
+Implements exception handling to prevent invalid operations in a **Calculator Program**.  
+
+📸 Output Image:  
+<p align="center">
+  <img src="./Lab 12/1.png" width="600px"/>
+</p>
+
+---
+
+### ✅ **Task 02: Exception Handling in Division**
+Handles division operations safely by checking for:  
+- Division by zero  
+- Invalid input  
+
+📸 Output Image:  
+<p align="center">
+  <img src="./Lab 12/2.png" width="600px"/>
+</p>
+
+---
+
+================================================== Lab 13 ==================================================
+
+# 🧮 Templates in C++
+
+---
+
+### ✅ **Task 01: Calculator using Templates**
+This task uses **C++ Templates** to create a calculator that works with multiple data types (**int, float, double**).  
+
+📸 Output Image:  
+<p align="center">
+  <img src="./Lab 13/1.png" width="600px"/>
+</p>
+
+---
 
 ## 👨‍💻 Author
 
