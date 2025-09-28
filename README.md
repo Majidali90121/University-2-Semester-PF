@@ -555,7 +555,7 @@ Appends student details into a text file for **record-keeping**.
 
 📸 Output Image:  
 <p align="center">
-  <img src="./Lab 10/3.png" width="600px"/>
+  <img src="./Lab10/3.png" width="600px"/>
 </p>
 
 📸 File Image
@@ -634,7 +634,7 @@ Implements exception handling to prevent invalid operations in a **Calculator Pr
 
 📸 Output Image:  
 <p align="center">
-  <img src="./Lab 12/1.png" width="600px"/>
+  <img src="./Lab 12/2.png" width="600px"/>
 </p>
 
 ---
@@ -646,7 +646,7 @@ Handles division operations safely by checking for:
 
 📸 Output Image:  
 <p align="center">
-  <img src="./Lab 12/2.png" width="600px"/>
+  <img src="./Lab 12/1.png" width="600px"/>
 </p>
 
 ---
