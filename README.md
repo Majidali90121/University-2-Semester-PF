@@ -5,11 +5,11 @@ This project includes **6 different C++ programs** that cover basic concepts lik
 
 ---
 
-## 📚 Tasks Overview
+##  Tasks Overview
 
 ---
 
-### ✅ **Task 01: Student Information System**
+### **Task 01: Student Information System**
 The user enters their **name** and **roll number**, and the program displays both.
 
 📸 Output Image:  
@@ -19,7 +19,7 @@ The user enters their **name** and **roll number**, and the program displays bot
 
 ---
 
-### ✅ **Task 02: Rectangle Area & Perimeter Calculator**
+###  **Task 02: Rectangle Area & Perimeter Calculator**
 The customer enters **width** and **length** of a rectangle.  
 The program calculates and displays:
 - **Area = width × length**
@@ -32,7 +32,7 @@ The program calculates and displays:
 
 ---
 
-### ✅ **Task 03: Voter Eligibility Checker**
+### **Task 03: Voter Eligibility Checker**
 This program checks whether a person is **eligible to vote** or not.  
 If the entered age is **greater than or equal to 18**, the person is eligible.
 
@@ -48,7 +48,7 @@ If the entered age is **greater than or equal to 18**, the person is eligible.
 
 ---
 
-### ✅ **Task 04: Celsius to Fahrenheit Converter**
+###  **Task 04: Celsius to Fahrenheit Converter**
 This program takes a temperature in **Celsius** and converts it to **Fahrenheit** using the formula:  
 **F = (C × 9/5) + 32**
 
@@ -59,7 +59,7 @@ This program takes a temperature in **Celsius** and converts it to **Fahrenheit*
 
 ---
 
-### ✅ **Task 05: Simple Calculator**
+###  **Task 05: Simple Calculator**
 The program performs basic operations:
 
 - ➕ **Addition**
@@ -88,7 +88,7 @@ The program performs basic operations:
 
 ---
 
-### ✅ **Task 06: Product Billing System**
+### **Task 06: Product Billing System**
 This task accepts:
 - **Product Price**
 - **Product Quantity**
